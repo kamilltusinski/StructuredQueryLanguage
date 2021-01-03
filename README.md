@@ -1,6 +1,6 @@
 # SQL
 
-Example queries which can use in database "Library".
+Example queries which can use in database "ksiegarnia".
 
 ## Instalation
 
@@ -8,4 +8,4 @@ Install the XAMPP package on your computer.
 
 ## Download
 
-Download file library.sql and load in PhpMyAdmin. 
+Download file ksiegarnia.sql and load in PhpMyAdmin. 
